@@ -22,12 +22,7 @@ Hello, I'm Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I 
  ⌚**I Spent My Time On:**
 -  **Learning:**  Excel | Power BI | Python | SQL
 
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
-
+</br>
 
 📈 **My GitHub Stats:**
 
