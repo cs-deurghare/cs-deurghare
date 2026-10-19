@@ -13,14 +13,14 @@ Hello, I'm Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I 
 **Talking about Personal Stuffs:**
 
 **📜**- **Certifications**
-* **Microsoft Excel Mastery** - [Verify Credential](https://edu.skillcourse.in/view-certificate/SC-UUT1JVJEUY)
-* **MS Excel Beginner to Advance** - [Verify Credential](https://edu.skillcourse.in/view-certificate/SC-HYDORKBI1H)
-* **Power BI Micro Course** - [Verify Credential](https://edu.skillcourse.in/view-certificate/SC-YI44QOY2P7)
+* **Microsoft Excel Mastery** - [(Verify)](https://edu.skillcourse.in/view-certificate/SC-UUT1JVJEUY)
+* **MS Excel Beginner to Advance** -[(Verify)](https://edu.skillcourse.in/view-certificate/SC-HYDORKBI1H)
+* **Power BI Micro Course** - [(Verify)](https://edu.skillcourse.in/view-certificate/SC-YI44QOY2P7)
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-- 🧠 Learning Excel & Power BI
+ ⌚**I Spent My Time On:**
+-  **Learning:**  Excel | Power BI | Python | SQL
 
 <!--START_SECTION:waka-->
 ```text
